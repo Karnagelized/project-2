@@ -7,3 +7,4 @@ This is awesome project.
 [Author](https://github.com/Karnagelized)
 
 ## Some new section here
+## Conflict
