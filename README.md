@@ -5,3 +5,5 @@ This is awesome project.
 # Author
 ---
 [Author](https://github.com/Karnagelized)
+
+## Conflict
